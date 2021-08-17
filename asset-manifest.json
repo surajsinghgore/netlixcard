@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netlixcard/static/css/main.a6ee2583.chunk.css",
+    "main.js": "/netlixcard/static/js/main.3750a1c0.chunk.js",
+    "main.js.map": "/netlixcard/static/js/main.3750a1c0.chunk.js.map",
+    "runtime-main.js": "/netlixcard/static/js/runtime-main.8748e1a1.js",
+    "runtime-main.js.map": "/netlixcard/static/js/runtime-main.8748e1a1.js.map",
+    "static/js/2.e52186f0.chunk.js": "/netlixcard/static/js/2.e52186f0.chunk.js",
+    "static/js/2.e52186f0.chunk.js.map": "/netlixcard/static/js/2.e52186f0.chunk.js.map",
+    "index.html": "/netlixcard/index.html",
+    "static/css/main.a6ee2583.chunk.css.map": "/netlixcard/static/css/main.a6ee2583.chunk.css.map",
+    "static/js/2.e52186f0.chunk.js.LICENSE.txt": "/netlixcard/static/js/2.e52186f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8748e1a1.js",
+    "static/js/2.e52186f0.chunk.js",
+    "static/css/main.a6ee2583.chunk.css",
+    "static/js/main.3750a1c0.chunk.js"
+  ]
+}
